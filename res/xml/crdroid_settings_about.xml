@@ -84,6 +84,13 @@
         android:summary="@string/maintainers_crdroid_summary"
         android:fragment="com.crdroid.settings.fragments.about.Maintainers" /> -->
 
+    <!-- crDroid Stats -->
+    <Preference
+        android:key="crdroid_stats"
+        android:icon="@drawable/ic_stats"
+        android:title="@string/crdroid_stats_title"
+        android:summary="@string/crdroid_stats_summary" />
+
     <!-- crDroid OTA update -->
     <Preference
         android:key="system_update_settings"

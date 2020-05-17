@@ -2552,4 +2552,9 @@
 
     <!-- Battery temperature -->
     <string name="battery_temperature">Battery temperature</string>
+	
+    <!-- Device Stats -->
+    <string name="crdroid_stats_title">Device stats</string>
+    <string name="crdroid_stats_summary">Check your device statistics</string>
+	
 </resources>
