@@ -158,4 +158,11 @@
             android:summary="@string/force_authorize_substratum_packages_summary"
             android:defaultValue="false"/>
     </PreferenceCategory> -->
+
+    <!-- Blur -->
+    <SwitchPreference
+        android:key="enable_blurs_on_windows"
+        android:title="@string/enable_blurs_on_windows_title"
+        android:summary="@string/enable_blurs_on_windows_summary" />
+
 </PreferenceScreen>
